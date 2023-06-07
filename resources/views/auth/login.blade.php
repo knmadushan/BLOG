@@ -57,13 +57,13 @@
                     </div>
 
                     <div class="row">
-                        <div class="text-center">
+                        <div class="text-center mt-3">
                             <button type="submit" class="btn btn-success w-100 rounded-pill">
                                 {{ __('Login') }}
                             </button>
                         </div>
                     </div>
-                    <div class="icon text-center mt-2">
+                    <div class="icon text-center mb-2 mt-2">
                         <button type="button" class="btn btn-outline-primary btn-floating me-3"><i class="bi bi-google"></i></button>
                         <button type="button" class="btn btn-outline-primary btn-floating me-3"><i class="bi bi-facebook"></i></button>
                         <button type="button" class="btn btn-outline-primary btn-floating"><i class="bi bi-apple"></i></button>

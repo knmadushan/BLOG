@@ -21,7 +21,7 @@
 <body>
     <div id="app">
         @include('layouts.navbar')
-        <main class="py-2">
+        <main class="py-3">
             @yield('content')
         </main>
         @include('layouts.footer')

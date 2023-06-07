@@ -10,7 +10,7 @@
             <div class="card mb-2" style="width: 22rem;">
                 <img src="{{ asset('post-img/p1.png') }}" alt="" class="card-img">
                 <div class="card-body text-center">
-                    <p class="card-text h5">James Nick</p>
+                    <p class="card-title h5">Title</p>
                     <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Illo autem, suscipit explicabo tempora praesentium laudantium
                         pariatur excepturi exercitationem nesciunt corrupti voluptatum.....
@@ -25,7 +25,7 @@
             <div class="card mb-2" style="width: 22rem;">
                 <img src="{{ asset('post-img/p1.png') }}" alt="" class="card-img">
                 <div class="card-body text-center">
-                    <p class="card-text h5">James Nick</p>
+                    <p class="card-title h5">Title</p>
                     <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Illo autem, suscipit explicabo tempora praesentium laudantium
                         pariatur excepturi exercitationem nesciunt corrupti voluptatum.....
@@ -40,7 +40,7 @@
             <div class="card mb-2" style="width: 22rem;">
                 <img src="{{ asset('post-img/p1.png') }}" alt="" class="card-img">
                 <div class="card-body text-center">
-                    <p class="card-text h5">James Nick</p>
+                    <p class="card-title h5">Title</p>
                     <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Illo autem, suscipit explicabo tempora praesentium laudantium
                         pariatur excepturi exercitationem nesciunt corrupti voluptatum.....
@@ -55,7 +55,7 @@
             <div class="card" style="width: 22rem;">
                 <img src="{{ asset('post-img/p1.png') }}" alt="" class="card-img">
                 <div class="card-body text-center">
-                    <p class="card-text h5">James Nick</p>
+                    <p class="card-title h5">Title</p>
                     <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Illo autem, suscipit explicabo tempora praesentium laudantium
                         pariatur excepturi exercitationem nesciunt corrupti voluptatum.....
@@ -70,7 +70,7 @@
             <div class="card" style="width: 22rem;">
                 <img src="{{ asset('post-img/p1.png') }}" alt="" class="card-img">
                 <div class="card-body text-center">
-                    <p class="card-text h5">James Nick</p>
+                    <p class="card-title h5">Title</p>
                     <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Illo autem, suscipit explicabo tempora praesentium laudantium
                         pariatur excepturi exercitationem nesciunt corrupti voluptatum.....
@@ -85,7 +85,7 @@
             <div class="card" style="width: 22rem;">
                 <img src="{{ asset('post-img/p1.png') }}" alt="" class="card-img">
                 <div class="card-body text-center">
-                    <p class="card-text h5">James Nick</p>
+                    <p class="card-title h5">Title</p>
                     <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Illo autem, suscipit explicabo tempora praesentium laudantium
                         pariatur excepturi exercitationem nesciunt corrupti voluptatum.....
